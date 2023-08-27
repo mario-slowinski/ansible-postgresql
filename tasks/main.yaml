@@ -1,0 +1,6 @@
+---
+- name: "Manage PostgreSQL databases"
+  tags:
+    - postgresql
+    - postgresql.database
+  import_tasks: database.yaml

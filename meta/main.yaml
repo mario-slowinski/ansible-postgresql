@@ -1,0 +1,21 @@
+---
+galaxy_info:
+  author: mario_slowinski
+  description: Manage PostgreSQL database
+
+  license: GPL-3.0-only
+
+  min_ansible_version: 2.10
+
+  platforms:
+    - name: any
+      versions:
+        - all
+
+  galaxy_tags:
+    - postgresql
+    - postgres
+    - database
+    - sql
+
+dependencies: []
